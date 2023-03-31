@@ -1,0 +1,7 @@
+jira_issues:
+  - keyword: ADV-[0-9]+
+    url: https://adviadinc.atlassian.net/browse/$0
+    title: Jira Kanban issue: $0
+  - keyword: SCRUM-[0-9]+
+    url: https://adviadinc.atlassian.net/browse/$0
+    title: Jira Sprint issue: $0
