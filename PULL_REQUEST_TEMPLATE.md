@@ -17,11 +17,11 @@
 
 ### Summary
 
-[TASK-<your-task-number>](https://app.tara.ai/tara-ai/team-tara/sprints?active=<tara-task-number>)
+ADV-1222
   
 <!-- A brief overview of your proposed changes -->
 
-### Checklist
+### Short description
 
 - [ ] My code matches all coding standards
 - [ ] I included documentation updates to the coding standards, when needed.
