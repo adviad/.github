@@ -12,8 +12,8 @@ This pull request was made to add the file upload functionality to Yandex.Binary
 ---
 
 ### Related PRs
+* #32
 * #35
-* #19
 
 ---
 
@@ -26,9 +26,11 @@ This pull request has been made to add the file upload functionality, which is a
 
 ### CheckList
 - [X] My code matches all coding standards
-- [ ] I included documentation updates to the coding standards, when needed.
+- [X] I included documentation updates to the coding standards, when needed.
 - [ ] I ran CI Tests and Unit Tests locally before submitting.
-- [ ] My code resolved all of the task's acceptance criteria.
+- [X] My code resolved all of the task's acceptance criteria.
+
+---
 
 #### Changes proposed in this PR:
 
