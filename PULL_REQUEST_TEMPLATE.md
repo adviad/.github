@@ -6,13 +6,13 @@ This pull request was made to add the file upload functionality to Yandex.Binary
 
 
 ### Related JIRA requests
-* ADV-1084
-* ADV-1085
+* ADV-1103
+* SCRUM-117
 
 ---
 
 ### Related PRs
-* #17
+* #35
 * #19
 
 ---
