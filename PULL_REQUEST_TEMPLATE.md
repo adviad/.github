@@ -55,3 +55,9 @@ This pull request has been made to add the file upload functionality, which is a
 - [X] If an error occurs during the file upload process, an appropriate error message should be displayed to the user.
 - [X] Files should be transferred correctly to Yandex.Direct API.
 - [X] During file uploading, the system's performance should not be reduced.
+
+---
+
+### Required Reviewers
+1. @alihuseynIi
+2. @sonaazizova
