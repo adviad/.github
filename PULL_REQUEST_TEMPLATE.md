@@ -48,7 +48,7 @@ This pull request has been made to add the file upload functionality, which is a
 
 ---
 
-#### Acceptance Criteria Scenarios
+### Acceptance Criteria Scenarios
 
 - [X] The uploaded files must be within the specified size limits.
 - [X] Supported file types should be uploaded.
